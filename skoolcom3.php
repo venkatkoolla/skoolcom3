@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Welcome skoolcom3</title>
+<title>Welcome skoolcom123</title>
 </head>
 <body>
 <form method="post" action="" enctype="multipart/form-data">
